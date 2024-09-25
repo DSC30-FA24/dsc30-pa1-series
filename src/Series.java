@@ -1,5 +1,3 @@
-package dsc30.pa1;
-
 public class Series {
     
     /** Row names of the series. */
