@@ -22,6 +22,8 @@ public class Series {
      */
     public String toString() {
          // TODO
+         // Implementation goes here
+         return "";
     }
 
     /**
@@ -30,6 +32,8 @@ public class Series {
      */
     public int getLength() {
          // TODO
+         // Implementation goes here
+         return 0;
     }
 
     /**
@@ -38,6 +42,8 @@ public class Series {
      */
     public String[] getRowNames() {
          // TODO
+         // Implementation goes here
+         return new String[0];
     }
 
     /**
@@ -45,7 +51,9 @@ public class Series {
      * Returns the data of this Series object as strings.
      */
     public String[] getData() {
-        // TODO
+         // TODO
+         // Implementation goes here
+         return new String[0];
     }
 
     /**
@@ -66,7 +74,9 @@ public class Series {
      * @param rn the row name to search for
      */
     public int loc(String rn) {
-        // TODO
+         // TODO
+         // Implementation goes here
+         return 0;
     }
 
     /**
@@ -76,7 +86,9 @@ public class Series {
      * @param rn an array of row names to search for
      */
     public int[] loc(String[] rn) {
-        // TODO
+         // TODO
+         // Implementation goes here
+         return new int[0];
     }
 
     /**
@@ -87,6 +99,8 @@ public class Series {
      */
     public int iloc(int ind) {
          // TODO
+         // Implementation goes here
+         return 0;
     }
 
     /**
@@ -97,5 +111,7 @@ public class Series {
      */
     public boolean drop(String rn) {
          // TODO
+         // Implementation goes here
+         return false;
     }
 }
